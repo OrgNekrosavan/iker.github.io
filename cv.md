@@ -8,7 +8,7 @@
 - **Teléfono:** +32 123 456 789
 
 ## **Perfil** :star:
-Soy un mago graduado de la *Escuela de Magia y Hechicería de Hogwarts* con experiencia en la lucha contra las artes oscuras. Me especializo en la defensa contra las artes oscuras y he participado en la derrota del mago tenebroso Lord Voldemort.
+Soy un mago graduado de la *Escula de Magia y Hechicería de Hogwarts* con experiencia en la lucha contra las artes oscuras. Me especializo en la defensa contra las artes oscuras y he participado en la derrota del mago tenebroso Lord Voldemort.
 
 ## **Educación** :books:
 - **Hogwarts School of Witchcraft and Wizardry**
